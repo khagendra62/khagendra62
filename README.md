@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/khagendra62/khagendra62.github.io)
 
-- 👨‍💻 All of my projects are available at [awasthikhagendra.com.np](awasthikhagendra.com.np)
+- 👨‍💻 All of my projects are available at [awasthikhagendra.com.np](https://awasthikhagendra.com.np)
 
 - 📫 How to reach me **khagendraawasthi47@gmail.com**
 

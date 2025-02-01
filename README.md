@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khagendra Awasthi</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate web developer from Nepal</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/khagendra62/khagendra62.github.io)
 
